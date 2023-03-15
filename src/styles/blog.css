@@ -1,0 +1,12 @@
+.blog-page{
+    max-width: 700px;
+    margin: 10px auto;
+    padding: 20px;
+}
+.blog-content{
+    max-width: 650px;
+    padding-left: 10px;
+    border-bottom: 3px solid #f2f2f2;
+    border-radius: 10px;
+    
+}
